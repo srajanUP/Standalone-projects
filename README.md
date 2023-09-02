@@ -12,5 +12,7 @@ This application allows the user to change the font properties using GUI interfa
 2. Login form
    
 ![Screenshot 2023-09-02 194114](https://github.com/sarjanUP/Standalone-projects/assets/119722954/04cf4bb3-7411-41e8-a395-5a05f89c5b21)
+![Screenshot 2023-09-02 200752](https://github.com/sarjanUP/Standalone-projects/assets/119722954/05d6cb87-4fa4-4378-862d-0edd9a266f56)
+
 
 
